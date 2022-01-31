@@ -32,9 +32,9 @@ Press "S" to start each new game.
 6. Added persistent high score read in from and written to a file
 7. Refactored some of the methods from the tutorial to reduce complexity
 8. Many different sprites are included - create your own variations
-~~9. Added lots of comments to explain what is happening for future clarity~~ TODO
 
 ## Structure
+```markdown
 ElfRevenge/
 |
 |__ assets/
