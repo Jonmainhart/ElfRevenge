@@ -10,10 +10,10 @@ This game requires Python 3.9 and Pygame 2.0.
 # Game Play
 Shoot as many Santa Clones and Bad Gifts as possible without getting hit.
 
-⬆️ to move forward
-⬇️ to move backward
-⬅️ and ➡️ to rotate
-Space to shoot
+* ⬆️ to move forward
+* ⬇️ to move backward
+* ⬅️ and ➡️ to rotate
+* Space to shoot
 
 Press "S" to start each new game.
 
